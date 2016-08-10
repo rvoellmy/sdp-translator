@@ -1,51 +1,4 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "sdp-translator",
-        "scope": null,
-        "escapedName": "sdp-translator",
-        "name": "sdp-translator",
-        "rawSpec": "",
-        "spec": "latest",
-        "type": "tag"
-      },
-      "/home/rvoellmy/tmp/bla"
-    ]
-  ],
-  "_from": "sdp-translator@latest",
-  "_id": "sdp-translator@0.1.24",
-  "_inCache": true,
-  "_installable": true,
-  "_location": "/sdp-translator",
-  "_nodeVersion": "0.12.14",
-  "_npmOperationalInternal": {
-    "host": "packages-16-east.internal.npmjs.com",
-    "tmp": "tmp/sdp-translator-0.1.24.tgz_1467363016037_0.33400664338842034"
-  },
-  "_npmUser": {
-    "name": "kurento-maintainer-team",
-    "email": "info@kurento.org"
-  },
-  "_npmVersion": "3.10.3",
-  "_phantomChildren": {},
-  "_requested": {
-    "raw": "sdp-translator",
-    "scope": null,
-    "escapedName": "sdp-translator",
-    "name": "sdp-translator",
-    "rawSpec": "",
-    "spec": "latest",
-    "type": "tag"
-  },
-  "_requiredBy": [
-    "#USER"
-  ],
-  "_resolved": "https://registry.npmjs.org/sdp-translator/-/sdp-translator-0.1.24.tgz",
-  "_shasum": "83fb8d634a63f15cd9944237dd90bd406906c6f3",
-  "_shrinkwrap": null,
-  "_spec": "sdp-translator",
-  "_where": "/home/rvoellmy/tmp/bla",
   "author": {
     "name": "Miguel París",
     "email": "mparisdiaz@gmail.co"
@@ -87,7 +40,7 @@
     "polyfill"
   ],
   "license": "Apache-2.0",
-  "main": "./lib/",
+  "main": "./lib/index.js",
   "maintainers": [
     {
       "name": "kurento-maintainer-team",

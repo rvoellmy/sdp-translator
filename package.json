@@ -3,8 +3,13 @@
     "name": "Miguel París",
     "email": "mparisdiaz@gmail.co"
   },
+  "jspm": {
+    "dependencies": {
+      "sdp-transform": "github:rvoellmy/sdp-transform@1.6.2"
+    }
+  },
   "dependencies": {
-    "sdp-transform": "1.5.*"
+    "sdp-transform": "github:rvoellmy/sdp-transform@1.6.2"
   },
   "description": "A simple SDP interoperability layer for Unified Plan/Plan B",
   "devDependencies": {
